@@ -4,7 +4,15 @@
   <title>W3Schools Home Page</title>
   <link>https://www.w3schools.com</link>
   <description>Free web building tutorials</description>
-  
+  <language>en-us</language>
+  <copyright>Copyright 2023 The New York Times Company</copyright>
+  <lastBuildDate>Sun, 01 Jan 2023 20:55:35 +0000</lastBuildDate>
+  <pubDate>Sun, 01 Jan 2023 20:54:21 +0000</pubDate>
+  <image>
+    <title>NYT > Top Stories</title>
+    <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+    <link>https://www.nytimes.com</link>
+  </image>
   <item>
     <title>Item # 1</title>
     <link>https://www.w3schools.com/xml/xml_rss.asp</link>
