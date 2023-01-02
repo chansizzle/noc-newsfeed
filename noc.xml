@@ -1,348 +1,200 @@
 <rss version="2.0">
-    <channel>
-        <title>NOC</title>
-        <link>https://raw.githubusercontent.com/chansizzle/noc-newsfeed/main/noc.xml</link>
-        <description>rss feed test</description>
-        <language>en-us</language>
-
-        <item>
-            <title>Savior </title>
-            <link></link>
-            <description>For therefore we both labour and suffer reproach, because we trust in the living God, who is the Saviour of all men, specially of those that believe (1 Timothy 4:10).</description>
-            <pubDate>1/1/2023</pubDate>
-        </item>
-
-        <item>
-            <title>Redeemer </title>
-            <link></link>
-            <description>For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth (Job 19:25).</description>
-            <pubDate>1/1/2023</pubDate>
-        </item>
-
-        <item>
-<title>Bread of Life </title>
-<link></link>
-<description>And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst (John 6:35).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-
-        <item>
-<title>Lord </title>
-<link></link>
-<description>Therefore that disciple whom Jesus loved saith unto Peter, It is the Lord (John 21:7).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-
-        <item>
-<title>Creator </title>
-<link></link>
-<description>Hast thou not known? has thou not heard, that the everlasting God, the Lord, the Creator of the ends of the earth, fainteth not, neither is weary? there is no searching of his understanding (Isaiah 40:28).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-
-        <item>
-<title>Son of the Living God </title>
-<link></link>
-<description>And Simon Peter answered and said, Thou art the Christ, the Son of the living God (Matthew 16:16).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-
-        <item>
-<title>Only Begotten Son </title>
-<link></link>
-<description>For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life (John 3:16).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-
-        <item>
-<title>Beloved Son </title>
-<link></link>
-<description>And there came a voice out of the cloud, saying, This is my beloved Son: hear him (Luke 9:35).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-
-        <item>
-<title>Holy One of Israel </title>
-<link></link>
-<description>Let the counsel of the Holy One of Israel draw nigh and come, that we may know it (Isaiah 5:19).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-
-        
-        <item>
-<title>Wonderful</title>
-<link></link>
-<description>For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace (Isaiah 9:6).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-
-        <item>
-<title>Counsellor</title>
-<link></link>
-<description>For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace (Isaiah 9:6).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-
-        <item>
-<title>The Mighty God</title>
-<link></link>
-<description>For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace (Isaiah 9:6).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-
-        <item>
-<title>The Prince of Peace</title>
-<link></link>
-<description>For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace (Isaiah 9:6).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-
-        <item>
-<title>King of Kings </title>
-<link></link>
-<description>Which in his times he shall shew, who is the blessed and only Potentate, the King of kings, and Lord of lords (1 Timothy 6:15).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>Head of the Church </title>
-<link></link>
-<description>Christ is the head of the church: and he is the saviour of the body (Ephesians 5:23).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-
-        <item>
-<title>The Almighty </title>
-<link></link>
-<description>But there is a spirit in man: and the inspiration of the Almighty giveth them understanding (Job 32:8).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-
-        <item>
-<title>Alpha and Omega </title>
-<link></link>
-<description>I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty (Revelation 1:8).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>Master </title>
-<link></link>
-<description>But be not ye called Rabbi: for one is your Master, even Christ; and all ye are brethren (Matthew 23:8).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-
-        <item>
-<title>King of the Jews </title>
-<link></link>
-<description>And the soldiers plaited a crown of thorns, and put it on his head, and they put on him a purple robe, and said, Hail, King of the Jews! and they smote him with their hands (John 19:2–3).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-
-        <item>
-<title>High Priest </title>
-<link></link>
-<description>Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus (Hebrews 3:1).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-
-       <item>
-<title>Prophet </title>
-<link></link>
-<description>And the multitude said, This is Jesus the prophet of Nazareth of Galilee (Matthew 21:11).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
- <item>
-<title>Teacher </title>
-<link></link>
-<description>The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him (John 3:2).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>Immanuel </title>
-<link></link>
-<description>Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel (Isaiah 7:14).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>Advocate</title>
-<link></link>
-<description>My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous (1 John 2:1).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>Mediator </title>
-<link></link>
-<description>And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions that were under the first testament, they which are called might receive the promise of eternal inheritance (Hebrews 9:15).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>Judge </title>
-<link></link>
-<description>And he commanded us to preach unto the people, and to testify that it is he which was ordained of God to be the Judge of quick and dead (Acts 10:42).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>Chief Cornerstone </title>
-<link></link>
-<description>And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone (Ephesians 2:20).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>Author and Finisher of Our Faith </title>
-<link></link>
-<description>Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God (Hebrews 12:2).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>Lamb of God </title>
-<link></link>
-<description>The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world (John 1:29).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>Good Shepherd </title>
-<link></link>
-<description>I am the good shepherd: the good shepherd giveth his life for the sheep (John 10:11).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>The Shepherd and Bishop of Souls </title>
-<link></link>
-<description>For ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls (1 Peter 2:25).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>The Word </title>
-<link></link>
-<description>In the beginning was the Word, and the Word was with God, and the Word was God (John 1:1).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>Fountain of Living Waters </title>
-<link></link>
-<description>O Lord, the hope of Israel, all that forsake thee shall be ashamed, and they that depart from me shall be written in the earth, because they have forsaken the Lord, the fountain of living waters (Jeremiah 17:13).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>Rock </title>
-<link></link>
-<description>He is the Rock, his work is perfect: for all his ways are judgment: a God of truth and without iniquity, just and right is he (Deuteronomy 32:4).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>Messias </title>
-<link></link>
-<description>We have found the Messias, which is, being interpreted, the Christ (John 1:41).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>True Vine </title>
-<link></link>
-<description>I am the true vine, and my Father is the husbandman (John 15:1).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>Branch </title>
-<link></link>
-<description>Behold, the days come, saith the Lord, that I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth (Jeremiah 23:5).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>Bridegroom </title>
-<link></link>
-<description>He that hath the bride is the bridegroom: but the friend of the bridegroom, which standeth and heareth him, rejoiceth greatly because of the bridegroom’s voice: this my joy therefore is fulfilled (John 3:29).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>Dayspring</title>
-<link></link>
-<description>Through the tender mercy of our God; whereby the dayspring from on high hath visited us, to give light to them that sit in darkness and in the shadow of death, to guide our feet into the way of peace (Luke 1:78–79).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>Shiloh </title>
-<link></link>
-<description>The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be (Genesis 49:10).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>The Lion of the Tribe of Judah </title>
-<link></link>
-<description>And one of the elders saith unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof (Revelations 5:5).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>The Bright and Morning Star </title>
-<link></link>
-<description>I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star (Revelations 22:16).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>The Image of the Invisible God </title>
-<link></link>
-<description>In whom we have redemption through his blood, even the forgiveness of sins: Who is the image of the invisible God, the firstborn of every creature (Colossians 1:14–15).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>I Am </title>
-<link></link>
-<description>Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am (John 8:58).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>Son of Man </title>
-<link></link>
-<description>For the Son of man is come to save that which was lost (Matthew 18:11).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>Carpenter </title>
-<link></link>
-<description>Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him (Mark 6:3).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>The Way, the Truth and the Life </title>
-<link></link>
-<description>Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me (John 14:6).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>King of Israel </title>
-<link></link>
-<description>He saved others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him (Matthew 24:42).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-<item>
-<title>Christ </title>
-<link></link>
-<description>And Simon Peter answered and said, Thou art the Christ, the Son of the living God (Matthew 16:16).</description>
-<pubDate>1/1/2023</pubDate>
-</item>
-
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <item>
-            <title>fffRussian Airstrikes Pummel Ukrainian Civilians</title>
-            <link>https://www.nytimes.com/2023/01/01/world/europe/ukraine-russia-air-attacks.html</link>
-            <description>Ten months into the war, Ukraine has turned the tide in ground combat, but its cities are still facing relentless waves of missiles and exploding drones.</description>
-            <pubDate>1/1/2023</pubDate>
-        </item>
-        
-        <item>
-            <title>asdf</title>
-            <link>hhh</link>
-            <description>Ten months into the war, Ukraine has turned the tide in ground combat, but its cities are still facing relentless waves of missiles and exploding drones.</description>
-            <pubDate>1/1/2023</pubDate>
-        </item>
-        
-    </channel>
+	<channel>
+		<title>NOC</title>
+		<link>https://raw.githubusercontent.com/chansizzle/noc-newsfeed/main/noc.xml</link>
+		<description>rss feed test</description>
+		<language>en-us</language>
+		<item>
+			<title>Savior </title>
+			<link></link>
+			<description>For therefore we both labour and suffer reproach, because we trust in the living God, who is the Saviour of all men, specially of those that believe (1 Timothy 4:10).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Redeemer </title>
+			<link></link>
+			<description>For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth (Job 19:25).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Bread of Life </title>
+			<link></link>
+			<description>And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst (John 6:35).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Lord </title>
+			<link></link>
+			<description>Therefore that disciple whom Jesus loved saith unto Peter, It is the Lord (John 21:7).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Creator </title>
+			<link></link>
+			<description>Hast thou not known? has thou not heard, that the everlasting God, the Lord, the Creator of the ends of the earth, fainteth not, neither is weary? there is no searching of his understanding (Isaiah 40:28).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Son of the Living God </title>
+			<link></link>
+			<description>And Simon Peter answered and said, Thou art the Christ, the Son of the living God (Matthew 16:16).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Only Begotten Son </title>
+			<link></link>
+			<description>For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life (John 3:16).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Beloved Son </title>
+			<link></link>
+			<description>And there came a voice out of the cloud, saying, This is my beloved Son: hear him (Luke 9:35).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Holy One of Israel </title>
+			<link></link>
+			<description>Let the counsel of the Holy One of Israel draw nigh and come, that we may know it (Isaiah 5:19).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Wonderful</title>
+			<link></link>
+			<description>For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace (Isaiah 9:6).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Counsellor</title>
+			<link></link>
+			<description>For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace (Isaiah 9:6).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>The Mighty God</title>
+			<link></link>
+			<description>For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace (Isaiah 9:6).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>The Prince of Peace</title>
+			<link></link>
+			<description>For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace (Isaiah 9:6).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>King of Kings </title>
+			<link></link>
+			<description>Which in his times he shall shew, who is the blessed and only Potentate, the King of kings, and Lord of lords (1 Timothy 6:15).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Head of the Church </title>
+			<link></link>
+			<description>Christ is the head of the church: and he is the saviour of the body (Ephesians 5:23).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>The Almighty </title>
+			<link></link>
+			<description>But there is a spirit in man: and the inspiration of the Almighty giveth them understanding (Job 32:8).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Alpha and Omega </title>
+			<link></link>
+			<description>I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty (Revelation 1:8).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Master </title>
+			<link></link>
+			<description>But be not ye called Rabbi: for one is your Master, even Christ; and all ye are brethren (Matthew 23:8).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>King of the Jews </title>
+			<link></link>
+			<description>And the soldiers plaited a crown of thorns, and put it on his head, and they put on him a purple robe, and said, Hail, King of the Jews! and they smote him with their hands (John 19:2–3).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>High Priest </title>
+			<link></link>
+			<description>Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus (Hebrews 3:1).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Prophet </title>
+			<link></link>
+			<description>And the multitude said, This is Jesus the prophet of Nazareth of Galilee (Matthew 21:11).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Teacher </title>
+			<link></link>
+			<description>The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him (John 3:2).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Immanuel </title>
+			<link></link>
+			<description>Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel (Isaiah 7:14).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Advocate</title>
+			<link></link>
+			<description>My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous (1 John 2:1).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Mediator </title>
+			<link></link>
+			<description>And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions that were under the first testament, they which are called might receive the promise of eternal inheritance (Hebrews 9:15).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Judge </title>
+			<link></link>
+			<description>And he commanded us to preach unto the people, and to testify that it is he which was ordained of God to be the Judge of quick and dead (Acts 10:42).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Chief Cornerstone </title>
+			<link></link>
+			<description>And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone (Ephesians 2:20).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Author and Finisher of Our Faith </title>
+			<link></link>
+			<description>Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God (Hebrews 12:2).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Lamb of God </title>
+			<link></link>
+			<description>The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world (John 1:29).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>Good Shepherd </title>
+			<link></link>
+			<description>I am the good shepherd: the good shepherd giveth his life for the sheep (John 10:11).</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>fffRussian Airstrikes Pummel Ukrainian Civilians</title>
+			<link>https://www.nytimes.com/2023/01/01/world/europe/ukraine-russia-air-attacks.html</link>
+			<description>Ten months into the war, Ukraine has turned the tide in ground combat, but its cities are still facing relentless waves of missiles and exploding drones.</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+		<item>
+			<title>asdf</title>
+			<link>hhh</link>
+			<description>Ten months into the war, Ukraine has turned the tide in ground combat, but its cities are still facing relentless waves of missiles and exploding drones.</description>
+			<pubDate>1/1/2023</pubDate>
+		</item>
+	</channel>
 </rss>
