@@ -4,13 +4,13 @@
       <link>https://raw.githubusercontent.com/chansizzle/noc-newsfeed/main/noc.xml</link>
       <description>rss feed test</description>
       <language>en-us</language>
-      <item>
+      <item 1>
          <title>Savior </title>
          <link></link>
          <description>For therefore we both labour and suffer reproach, because we trust in the living God, who is the Saviour of all men, specially of those that believe (1 Timothy 4:10).</description>
          <pubDate>1/1/2023</pubDate>
       </item>
-      <item>
+      <item 2>
          <title>Redeemer </title>
          <link></link>
          <description>For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth (Job 19:25).</description>
